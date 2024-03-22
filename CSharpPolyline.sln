@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPolyline", "CSharpPolyline\CSharpPolyline.csproj", "{380AAED2-F552-4DD8-98C3-31077A42C4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380AAED2-F552-4DD8-98C3-31077A42C4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380AAED2-F552-4DD8-98C3-31077A42C4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380AAED2-F552-4DD8-98C3-31077A42C4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380AAED2-F552-4DD8-98C3-31077A42C4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9054CF7-04B8-4477-A211-6E85684E9101}
+	EndGlobalSection
+EndGlobal
